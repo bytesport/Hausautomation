@@ -1,0 +1,10 @@
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.csproj.CoreCompileInputs.cache
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.AssemblyInfoInputs.cache
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.AssemblyInfo.cs
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.deps.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.runtimeconfig.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.runtimeconfig.dev.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.dll
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.pdb
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.dll
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\BWS\Release\netcoreapp2.0\linux-x64\Hausautomation.pdb

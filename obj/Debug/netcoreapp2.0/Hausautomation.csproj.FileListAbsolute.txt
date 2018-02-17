@@ -1,0 +1,11 @@
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\Debug\netcoreapp2.0\Hausautomation.deps.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\Debug\netcoreapp2.0\Hausautomation.runtimeconfig.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\Debug\netcoreapp2.0\Hausautomation.runtimeconfig.dev.json
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\Debug\netcoreapp2.0\Hausautomation.dll
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.csprojResolveAssemblyReference.cache
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.csproj.CoreCompileInputs.cache
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.AssemblyInfoInputs.cache
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.AssemblyInfo.cs
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\bin\Debug\netcoreapp2.0\Hausautomation.pdb
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.dll
+c:\users\alexander.mattfeld\documents\visual studio 2017\Projects\Hausautomation\Hausautomation\obj\Debug\netcoreapp2.0\Hausautomation.pdb
